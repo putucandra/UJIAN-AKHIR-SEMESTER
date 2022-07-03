@@ -49,12 +49,12 @@ Tebak jenis kelamin irfani ?
 ```bash
 python jenis-kelamin.py irfani
 Prediksi jenis kelamin dengan Naive Bayes :
-irfani  :  Pria
+INDRA GUNAWAN  :  Laki-laki
 ```
 
 Menjalankan program dengan metode Logistic Regression dan dataset yg ditentukan ulang
 ```bash
-python jenis-kelamin.py -t "./data/data-pemilih-kpu.csv" -ml LG "niky felina"
+python jenis-kelamin.py -t "./data/data-pemilih-kpu.csv" -ml LG "RODIAH"
 Akurasi : 93.5135135135 %
 Prediksi jenis kelamin dengan Logistic Regression :
 RODIAH  :  Perempuan
