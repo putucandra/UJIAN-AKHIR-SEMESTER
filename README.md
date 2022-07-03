@@ -9,11 +9,12 @@ Tampilan dataset, teridiri dari 13.137 nama
 
 | Nama | Jenis Kelamin |
 |------|---------------|
-|ERWIN TJAHJONO|Laki-Laki|
-|DAVIANDRIE ANDIKA BAHROENY|Laki-Laki|
-|ELAN KURNIAWAN|Laki-Laki|
-|AYU DWI CAHYANING MUKTI|Perempuan|
-|SITA.HJ|Perempuan|
+|SUGIANTO ALEXCHANDRA|Laki-Laki|
+|INDRA GUNAWAN|Laki-Laki|
+|TRI JOKO WALUYO|Laki-Laki|
+|SRIYATI|Perempuan|
+|TUTI SUWARTI|Perempuan|
+|RODIAH|Perempuan|
 
 
 Metode klasifikasi yang digunakan adalah Logistic Regression, Naive Bayes dan Random Forest Tree dengan bantuan library Python [Scikit Learn](http://scikit-learn.org).  
@@ -56,7 +57,7 @@ Menjalankan program dengan metode Logistic Regression dan dataset yg ditentukan 
 python jenis-kelamin.py -t "./data/data-pemilih-kpu.csv" -ml LG "niky felina"
 Akurasi : 93.5135135135 %
 Prediksi jenis kelamin dengan Logistic Regression :
-niky felina  :  Wanita
+RODIAH  :  Perempuan
 ```
 
 Untuk mengubah prediksi nama dari nama bahasa negara lain atau bahasa daerah tertentu, dataset nya silahkan diganti sesuai kebutuhan
