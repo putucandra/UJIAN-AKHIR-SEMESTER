@@ -62,5 +62,5 @@ RODIAH  :  Perempuan
 
 Untuk mengubah prediksi nama dari nama bahasa negara lain atau bahasa daerah tertentu, dataset nya silahkan diganti sesuai kebutuhan
 
-author: [@irfani](http://irfani.web.id)
+
 
